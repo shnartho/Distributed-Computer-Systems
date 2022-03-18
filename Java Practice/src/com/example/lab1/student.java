@@ -1,7 +1,7 @@
 package com.example.lab1;
 
 public class student {
-    String name;
+    protected String name;
     int age;
     String address;
 
