@@ -1,5 +1,4 @@
 # Distributed-Computer-Systems 🎯
-//<h3>Java  C#  RPC  gRPC</h3>
 University Based course on Backend Development 🔥<br>
 <br>
 List of topics are covered/will be covered during classes :
