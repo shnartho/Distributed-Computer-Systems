@@ -1,0 +1,6 @@
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/gRPCapp/gRPCclient/obj/Debug/net5.0/gRPCclient.csproj.AssemblyReference.cache
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/gRPCapp/gRPCclient/obj/Debug/net5.0/gRPCclient.GeneratedMSBuildEditorConfig.editorconfig
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/gRPCapp/gRPCclient/obj/Debug/net5.0/gRPCclient.AssemblyInfoInputs.cache
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/gRPCapp/gRPCclient/obj/Debug/net5.0/gRPCclient.AssemblyInfo.cs
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/gRPCapp/gRPCclient/obj/Debug/net5.0/gRPCclient.csproj.CoreCompileInputs.cache
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/gRPCapp/gRPCclient/obj/Debug/net5.0/gRPCclient.MvcApplicationPartsAssemblyInfo.cache
