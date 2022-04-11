@@ -81,7 +81,7 @@ public class JavaClient {
 			XmlRpcClient client = new XmlRpcClient("http://" + ip + ":" + String.valueOf(port) + "/");
 			Vector<Integer> params = new Vector<Integer>();
 			System.out.println();
-			System.out.println("+----------------------Menu------------------------+");
+			System.out.println("+----------------------MyData----------------------+");
 			System.out.println(MyData.info());
 			System.out.println("+--------------------------------------------------+");
 			System.out.println("Enter your choice:");

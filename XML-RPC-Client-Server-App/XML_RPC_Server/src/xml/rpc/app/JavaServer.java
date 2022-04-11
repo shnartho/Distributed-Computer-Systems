@@ -56,6 +56,10 @@ public class JavaServer {
 		int lower = (Integer) data.get("Lower");
 		int upper = (Integer) data.get("Upper");
 		Vector primeNumbers = new Vector();
+		Vector primeNumber = new Vector();
+
+
+
 
 
 		for (int i = lower; i <= upper; i++) {
@@ -63,7 +67,10 @@ public class JavaServer {
 				primeNumbers.addElement(" "+i);
 			}
 		}
-		return primeNumbers;
+		int lastVal = primeNumbers.size();
+		primeNumber.addElement(primeNumbers.get(0));
+		primeNumber.addElement(primeNumbers.get(lastVal-1));
+		return primeNumber;
 	}
 
 	/**
@@ -112,6 +119,7 @@ public class JavaServer {
 						InetAddress addr = addresses.nextElement();
 						ip = addr.getHostAddress();
 						if (!ip.contains(":")) { // if not ipv6
+							MyData.info();
 							System.out.println("on ip: " + ip + " port " + port);
 						}
 					}
