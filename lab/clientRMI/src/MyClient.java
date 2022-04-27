@@ -43,7 +43,7 @@ public class MyClient {
         inObj = new InputType();
         inObj.x1 = 1001;
         inObj.x2 = 2002;
-        inObj.operation = "add";
+        inObj.operation = "sub";
 
         try{
             result = rObject.calculate(10.1, 20.2);
