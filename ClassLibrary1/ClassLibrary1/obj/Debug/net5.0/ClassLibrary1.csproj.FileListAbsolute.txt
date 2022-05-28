@@ -1,0 +1,12 @@
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/bin/Debug/net5.0/ClassLibrary1.deps.json
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/bin/Debug/net5.0/ClassLibrary1.dll
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/bin/Debug/net5.0/ref/ClassLibrary1.dll
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/bin/Debug/net5.0/ClassLibrary1.pdb
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/obj/Debug/net5.0/ClassLibrary1.csproj.AssemblyReference.cache
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/obj/Debug/net5.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/obj/Debug/net5.0/ClassLibrary1.AssemblyInfoInputs.cache
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/obj/Debug/net5.0/ClassLibrary1.AssemblyInfo.cs
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/obj/Debug/net5.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/obj/Debug/net5.0/ClassLibrary1.dll
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/obj/Debug/net5.0/ref/ClassLibrary1.dll
+/home/shnartho/Erusmus Semester 2/Distributed Computer Systems/ClassLibrary1/ClassLibrary1/obj/Debug/net5.0/ClassLibrary1.pdb

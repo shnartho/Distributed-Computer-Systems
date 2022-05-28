@@ -8,7 +8,7 @@ public class RcpClient {
     public static void main(String[] args){
         MyData.info();
         try {
-            XmlRpcClient srv = new XmlRpcClient("http://127.0.0.1:10014");
+            XmlRpcClient srv = new XmlRpcClient("http://127.0.0.1:8088");
             Vector<Integer> params = new Vector<Integer>();
             params.addElement(101);
             params.addElement(202);
