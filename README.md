@@ -22,3 +22,4 @@ Lab 3 JavaRMI client server application using Java🎒<br>
 
 <h2>REST</h2>
 
+[![Get.png](https://i.postimg.cc/NFrJr3Cr/Get.png)](https://postimg.cc/Lg2BcbpH)
