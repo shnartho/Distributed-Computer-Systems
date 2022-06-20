@@ -7,6 +7,7 @@ Lab 1 XML-RPC client server application in JAVA 📂<br>
 Lab 1B XML-RPC client server application in JAVA V2 <br>
 Lab 2 gRPC client server application using C# .NET 📗<br>
 Lab 3 JavaRMI client server application using Java🎒<br>
+Lab 6 REST 🎬<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>🟢 XML-RPC</h2>
