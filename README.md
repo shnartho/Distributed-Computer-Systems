@@ -20,3 +20,5 @@ Lab 3 JavaRMI client server application using Java🎒<br>
 
 <h2>JavaRMI</h2>
 
+<h2>REST</h2>
+
