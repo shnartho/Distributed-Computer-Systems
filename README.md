@@ -29,3 +29,6 @@ Lab 3 JavaRMI client server application using Java🎒<br>
 [![delete3.png](https://i.postimg.cc/zGjrBhgY/delete3.png)](https://postimg.cc/tsYfvYkB)
 
 [![post1.png](https://i.postimg.cc/g0tbyPsM/post1.png)](https://postimg.cc/KKTWFwdL)
+
+
+<h2>Ajax</h2>
