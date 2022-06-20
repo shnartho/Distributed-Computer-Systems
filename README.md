@@ -9,7 +9,7 @@ Lab 2 gRPC client server application using C# .NET 📗<br>
 Lab 3 JavaRMI client server application using Java🎒<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2>XML-RPC</h2>
+<h2>🟢 XML-RPC</h2>
 <h6>Finding Pirme number, Haversine Distance, Addition etc</h6>
 
 [![xmlrpc.png](https://i.postimg.cc/hjKZQh2m/xmlrpc.png)](https://postimg.cc/FfnV2F5F)
