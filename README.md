@@ -16,7 +16,7 @@ Lab 3 JavaRMI client server application using Java🎒<br>
 [![Screenshot-from-2022-04-11-20-08-14.png](https://i.postimg.cc/59q60qBB/Screenshot-from-2022-04-11-20-08-14.png)](https://postimg.cc/nMrHSmwr)
 [![Screenshot-from-2022-04-11-20-10-42.png](https://i.postimg.cc/brTJBpyC/Screenshot-from-2022-04-11-20-10-42.png)](https://postimg.cc/JHsMywBZ)
 
-<h2>gRPC</h2>
+<h2>🟢 gRPC</h2>
 
 <h2>🟢 JavaRMI</h2>
 
